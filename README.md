@@ -5,6 +5,10 @@ You can increse view size and animate in scrollview.
 You can use this library for animation and size change of view in scrollview.
 
 ## preview :
-<img src="https://github.com/VikasPrajapati27/ScrollAnimation/blob/master/FirstScroll.gif" width="320"/>
 
-<img src="https://github.com/VikasPrajapati27/ScrollAnimation/blob/master/SecondScroll.gif" width="320"/>
+<p align="left">
+    <img src="https://github.com/VikasPrajapati27/ScrollAnimation/blob/master/FirstScroll.gif" width="480"/>
+</p>
+<p align="right">
+  <img src="https://github.com/VikasPrajapati27/ScrollAnimation/blob/master/SecondScroll.gif" width="480"/>
+</p>
